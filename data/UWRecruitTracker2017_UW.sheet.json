@@ -1,0 +1,163 @@
+[
+  {
+    "uwfirstname": "Joel",
+    "uwlastname": "Whitford",
+    "uwposition": "P",
+    "uwstars": 2,
+    "uwheight": "6-4",
+    "uwweight": 215,
+    "uwschool": "Santa Barbara CC",
+    "uwhometown": "Santa Barbara, Calif.",
+    "uwsigned": "x"
+  },
+  {
+    "uwfirstname": "Cole",
+    "uwlastname": "Norgaard",
+    "uwposition": "OL",
+    "uwstars": 3,
+    "uwheight": "6-5",
+    "uwweight": 271,
+    "uwschool": "St. Mary's HS",
+    "uwhometown": "Stockton, Calif."
+  },
+  {
+    "uwfirstname": "Joe",
+    "uwlastname": "Tryon",
+    "uwposition": "DE",
+    "uwstars": 3,
+    "uwheight": "6-6",
+    "uwweight": 230,
+    "uwschool": "Hazen HS",
+    "uwhometown": "Renton, Wash."
+  },
+  {
+    "uwfirstname": "Henry",
+    "uwlastname": "Bainivalu",
+    "uwposition": "OL",
+    "uwstars": 4,
+    "uwheight": "6-4",
+    "uwweight": 277,
+    "uwschool": "Skyline HS",
+    "uwhometown": "Sammamish, Wash."
+  },
+  {
+    "uwfirstname": "Elijah",
+    "uwlastname": "Molden",
+    "uwposition": "DB",
+    "uwstars": 4,
+    "uwheight": "5-10",
+    "uwweight": 172,
+    "uwschool": "West Linn HS",
+    "uwhometown": "West Linn, Ore."
+  },
+  {
+    "uwfirstname": "Salvon",
+    "uwlastname": "Ahmed",
+    "uwposition": "ATH",
+    "uwstars": 4,
+    "uwheight": "5-11",
+    "uwweight": 182,
+    "uwschool": "Juanita HS",
+    "uwhometown": "Kirkland, Wash."
+  },
+  {
+    "uwfirstname": "Cade",
+    "uwlastname": "Otton",
+    "uwposition": "TE",
+    "uwstars": 3,
+    "uwheight": "6-5",
+    "uwweight": 225,
+    "uwschool": "Tumwater HS",
+    "uwhometown": "Tumwater, Wash."
+  },
+  {
+    "uwfirstname": "Brandon",
+    "uwlastname": "McKinney",
+    "uwposition": "DB",
+    "uwstars": 4,
+    "uwheight": "6-1",
+    "uwweight": 190,
+    "uwschool": "Lutheran HS",
+    "uwhometown": "Orange, Calif."
+  },
+  {
+    "uwfirstname": "Jake",
+    "uwlastname": "Haener",
+    "uwposition": "QB",
+    "uwstars": 3,
+    "uwheight": "6-0",
+    "uwweight": 190,
+    "uwschool": "Monte Vista HS",
+    "uwhometown": "Danville, Calif."
+  },
+  {
+    "uwfirstname": "Ariel",
+    "uwlastname": "Ngata",
+    "uwposition": "LB",
+    "uwstars": 3,
+    "uwheight": "6-4",
+    "uwweight": 200,
+    "uwschool": "Folsom HS",
+    "uwhometown": "Folsom, Calif."
+  },
+  {
+    "uwfirstname": "Ty",
+    "uwlastname": "Jones",
+    "uwposition": "WR",
+    "uwstars": 3,
+    "uwheight": "6-3",
+    "uwweight": 185,
+    "uwschool": "Provo HS",
+    "uwhometown": "Provo, Utah"
+  },
+  {
+    "uwfirstname": "Alex",
+    "uwlastname": "Cook",
+    "uwposition": "WR",
+    "uwstars": 3,
+    "uwheight": "6-2",
+    "uwweight": 180,
+    "uwschool": "Sheldon HS",
+    "uwhometown": "Sacramento, Calif."
+  },
+  {
+    "uwfirstname": "Hunter",
+    "uwlastname": "Bryant",
+    "uwposition": "TE",
+    "uwstars": 4,
+    "uwheight": "6-3",
+    "uwweight": 235,
+    "uwschool": "Eastside Catholic HS",
+    "uwhometown": "Sammamish, Wash."
+  },
+  {
+    "uwfirstname": "Ali",
+    "uwlastname": "Gaye",
+    "uwposition": "DE",
+    "uwstars": 3,
+    "uwheight": "6-6",
+    "uwweight": 270,
+    "uwschool": "Edmonds-Woodway",
+    "uwhometown": "Edmonds, Wash."
+  },
+  {
+    "uwfirstname": "Keith",
+    "uwlastname": "Taylor",
+    "uwposition": "DB",
+    "uwstars": 4,
+    "uwheight": "6-1",
+    "uwweight": 175,
+    "uwschool": "Servite HS",
+    "uwhometown": "Anaheim, Calif."
+  },
+  {
+    "uwfirstname": "Terrell",
+    "uwlastname": "Bynum",
+    "uwposition": "WR",
+    "uwstars": 4,
+    "uwheight": "6-1",
+    "uwweight": 175,
+    "uwschool": "St. John Bosco HS",
+    "uwhometown": "Bellflower, Calif."
+  }
+]
