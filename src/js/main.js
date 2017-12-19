@@ -5,7 +5,7 @@ require("./lib/ads");
 require("component-responsive-frame/child");
 require("angular");
 
-var app = angular.module("uw-wsu-recruits-2017", []);
+var app = angular.module("uw-wsu-recruits", []);
 
 app.controller("uwController", ["$scope", function($scope) {
   $scope.recruits = huskiesData;

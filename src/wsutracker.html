@@ -10,7 +10,7 @@
   <body>
 
     <responsive-child>
-      <div class="embedded" ng-app="uw-wsu-recruits-2018">
+      <div class="embedded" ng-app="uw-wsu-recruits">
 
         <div class="flex-container">
           <%= t.include("./_wsutable.html") %>
@@ -19,7 +19,7 @@
     </responsive-child>
 
     <script>
-      var cougarsData = <%= JSON.stringify(json.WSURecruitTracker2018_WSU) %>;
+      var cougarsData = <%= JSON.stringify(json.WSURecruitTracker2018_UW) %>;
     </script>
     <script src="app.js"></script>
     <% if (json.project.production) { %>

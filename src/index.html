@@ -9,7 +9,7 @@
   </head>
   <body>
 
-    <div class="outer" ng-app="uw-wsu-recruits-2018">
+    <div class="outer" ng-app="uw-wsu-recruits">
 
       <%= t.include("partials/_ad.html", { type: "banner" }) %>
 
@@ -36,7 +36,6 @@
        <div class="credits">
 
          Reporting by <span class="credit-name">Adam Jude</span> and <span class="credit-name">Stefanie Loh</span><br/>
-         Production by <span class="credit-name">Sean Quinton</span> and <span class="credit-name">Audrey Carlsen</span><br/>
          Ratings courtesy of <span class="credit-name">Rivals.com</span> and <span class="credit-name">Scout.com</span>
 
        </div>
@@ -60,7 +59,7 @@
     </footer>
 
     <script>
-      var cougarsData = <%= JSON.stringify(json.WSURecruitTracker2018_WSU) %>;
+      var cougarsData = <%= JSON.stringify(json.WSURecruitTracker2018_UW) %>;
       var huskiesData = <%= JSON.stringify(json.UWRecruitTracker2018_UW) %>;
     </script>
     <script src="app.js"></script>
