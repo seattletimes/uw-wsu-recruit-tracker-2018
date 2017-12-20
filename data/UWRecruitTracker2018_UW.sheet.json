@@ -4,8 +4,8 @@
     "uwlastname": "Sirmon",
     "uwposition": "QB",
     "uwstars": 4,
-    "uwheight": "6-5",
-    "uwweight": 225,
+    "uwheight": "6-4",
+    "uwweight": 226,
     "uwschool": "Bothell",
     "uwhometown": "Bothell",
     "uwsigned": "x"
@@ -16,9 +16,10 @@
     "uwposition": "QB",
     "uwstars": 4,
     "uwheight": "6-4",
-    "uwweight": 200,
+    "uwweight": 204,
     "uwschool": "Coeur d'Alene",
-    "uwhometown": "Coeur d'Alene (Idaho"
+    "uwhometown": "Coeur d'Alene, Idaho",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Richard",
@@ -76,12 +77,12 @@
     "uwsigned": "x"
   },
   {
-    "uwfirstname": "Ulumoo “MJ”",
+    "uwfirstname": "Ulumoo “M.J.”",
     "uwlastname": "Ale",
     "uwposition": "OL",
     "uwstars": 3,
     "uwheight": "6-6",
-    "uwweight": 330,
+    "uwweight": 361,
     "uwschool": "Fife",
     "uwhometown": "Fife",
     "uwsigned": "x"
@@ -116,7 +117,8 @@
     "uwheight": "6-5",
     "uwweight": 250,
     "uwschool": "Wilsonville",
-    "uwhometown": "Wilsonville, Ore."
+    "uwhometown": "Wilsonville, Ore.",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Mosiah",
@@ -126,7 +128,8 @@
     "uwheight": "6-3",
     "uwweight": 275,
     "uwschool": "Emerald Ridge",
-    "uwhometown": "Puyallup"
+    "uwhometown": "Puyallup",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Sam",
@@ -144,20 +147,22 @@
     "uwlastname": "Tupuola-Fetui",
     "uwposition": "DL/LB",
     "uwstars": 3,
-    "uwheight": "6-4",
+    "uwheight": "6-2",
     "uwweight": 250,
     "uwschool": "Pearl City",
-    "uwhometown": "Pearl City, Hawaii"
+    "uwhometown": "Pearl City, Hawaii",
+    "uwsigned": "x"
   },
   {
-    "uwfirstname": "Brandon",
+    "uwfirstname": "Ale \"Brandon\"",
     "uwlastname": "Kaho",
     "uwposition": "LB",
     "uwstars": 4,
-    "uwheight": "6-2",
-    "uwweight": 232,
+    "uwheight": "6-1",
+    "uwweight": 218,
     "uwschool": "Reno",
-    "uwhometown": "Reno, Nev."
+    "uwhometown": "Reno, Nev.",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Jackson",
