@@ -7,7 +7,8 @@
     "wsuheight": "6-4",
     "wsuweight": 202,
     "wsuschool": "Lehi HS",
-    "wsuhometown": "Lehi, UT"
+    "wsuhometown": "Lehi, UT",
+    "wsusigned": "X"
   },
   {
     "wsufirstname": "Rodrick",
@@ -47,7 +48,8 @@
     "wsuheight": "6-7",
     "wsuweight": 270,
     "wsuschool": "Woodinville",
-    "wsuhometown": "Woodinville, WA"
+    "wsuhometown": "Woodinville, WA",
+    "wsusigned": "X"
   },
   {
     "wsufirstname": "Brandon",
@@ -57,7 +59,8 @@
     "wsuheight": "6-5",
     "wsuweight": 172,
     "wsuschool": "Cass Technical",
-    "wsuhometown": "Detroit, MI"
+    "wsuhometown": "Detroit, MI",
+    "wsusigned": "X"
   },
   {
     "wsufirstname": "D'Angelo ",
@@ -117,7 +120,8 @@
     "wsuheight": "6-4",
     "wsuweight": 238,
     "wsuschool": "Great Oak HS",
-    "wsuhometown": "Temecula, CA"
+    "wsuhometown": "Temecula, CA",
+    "wsusigned": "X"
   },
   {
     "wsufirstname": "Kedron ",
@@ -127,7 +131,8 @@
     "wsuheight": "6-1",
     "wsuweight": 190,
     "wsuschool": "St. John Bosco",
-    "wsuhometown": "Bellflower, CA"
+    "wsuhometown": "Bellflower, CA",
+    "wsusigned": "X"
   },
   {
     "wsufirstname": "Ahmir ",
@@ -147,7 +152,8 @@
     "wsuheight": "6-3",
     "wsuweight": "2-6",
     "wsuschool": "Juniperro Serra",
-    "wsuhometown": "San Mateo, CA"
+    "wsuhometown": "San Mateo, CA",
+    "wsusigned": "X"
   },
   {
     "wsufirstname": "Myles",
@@ -157,7 +163,8 @@
     "wsuheight": "5-11",
     "wsuweight": 175,
     "wsuschool": "Churchill HS",
-    "wsuhometown": "Eugene, OR"
+    "wsuhometown": "Eugene, OR",
+    "wsusigned": "X"
   },
   {
     "wsufirstname": "Jonathan",
@@ -177,7 +184,8 @@
     "wsuheight": "6-3",
     "wsuweight": 323,
     "wsuschool": "Palisades HS",
-    "wsuhometown": "Pacific Palisades, CA"
+    "wsuhometown": "Pacific Palisades, CA",
+    "wsusigned": "X"
   },
   {
     "wsufirstname": "Jarrett",
@@ -187,7 +195,8 @@
     "wsuheight": "6-5",
     "wsuweight": 255,
     "wsuschool": "Anderson",
-    "wsuhometown": "Anderson, CA"
+    "wsuhometown": "Anderson, CA",
+    "wsusigned": "X"
   },
   {
     "wsufirstname": "Gatlin",
@@ -208,5 +217,16 @@
     "wsuweight": 160,
     "wsuschool": "Independence CC",
     "wsuhometown": "Independence, KS"
+  },
+  {
+    "wsufirstname": "Kendrick",
+    "wsulastname": "Catis",
+    "wsuposition": "LB",
+    "wsustars": 3,
+    "wsuheight": "6-1",
+    "wsuweight": 228,
+    "wsuschool": "Highland C.C.",
+    "wsuhometown": "Highland, KS",
+    "wsusigned": "X"
   }
 ]
