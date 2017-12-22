@@ -18,7 +18,8 @@
     "wsuheight": "6-2",
     "wsuweight": 203,
     "wsuschool": "East Valley",
-    "wsuhometown": "Spokane, WA"
+    "wsuhometown": "Spokane, WA",
+    "wsusigned": "X"
   },
   {
     "wsufirstname": "Drue",
@@ -233,6 +234,17 @@
     "wsuweight": 228,
     "wsuschool": "Highland C.C.",
     "wsuhometown": "Highland, KS",
+    "wsusigned": "X"
+  },
+  {
+    "wsufirstname": "Halid ",
+    "wsulastname": "Djibril",
+    "wsuposition": "S",
+    "wsustars": 3,
+    "wsuheight": "6-2",
+    "wsuweight": 185,
+    "wsuschool": "Cathedral",
+    "wsuhometown": "Los Angeles, CA",
     "wsusigned": "X"
   }
 ]

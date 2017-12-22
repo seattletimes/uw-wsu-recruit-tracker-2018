@@ -26,7 +26,7 @@
     "uwlastname": "Newton",
     "uwposition": "RB",
     "uwstars": 3,
-    "uwheight": "6-0",
+    "uwheight": "6-1",
     "uwweight": 183,
     "uwschool": "Palmdale",
     "uwhometown": "Palmdale, Calif.",
@@ -71,7 +71,7 @@
     "uwposition": "TE",
     "uwstars": 3,
     "uwheight": "6-3",
-    "uwweight": 225,
+    "uwweight": 235,
     "uwschool": "Gonzaga Prep",
     "uwhometown": "Spokane",
     "uwsigned": "x"
@@ -195,6 +195,17 @@
     "uwweight": 197,
     "uwschool": "Centennial",
     "uwhometown": "Peoria, Ariz.",
+    "uwsigned": "x"
+  },
+  {
+    "uwfirstname": "Kyler",
+    "uwlastname": "Gordon",
+    "uwposition": "CB",
+    "uwstars": 4,
+    "uwheight": "5-10",
+    "uwweight": 175,
+    "uwschool": "Archbishop Murphy",
+    "uwhometown": "Everett",
     "uwsigned": "x"
   }
 ]
