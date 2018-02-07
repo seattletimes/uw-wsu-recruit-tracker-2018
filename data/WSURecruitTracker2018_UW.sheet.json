@@ -33,16 +33,6 @@
     "wsusigned": "X"
   },
   {
-    "wsufirstname": "Nick",
-    "wsulastname": "Lewis",
-    "wsuposition": "OT",
-    "wsustars": 3,
-    "wsuheight": "6-9",
-    "wsuweight": 348,
-    "wsuschool": "The Bolles School",
-    "wsuhometown": "Jacksonville, FL"
-  },
-  {
     "wsufirstname": "Cade ",
     "wsulastname": "Beresford",
     "wsuposition": "OT",
@@ -94,17 +84,8 @@
     "wsuheight": "5-10",
     "wsuweight": 195,
     "wsuschool": "Pomona HS",
-    "wsuhometown": "Arvada, CO"
-  },
-  {
-    "wsufirstname": "Erick ",
-    "wsulastname": "Hallett",
-    "wsuposition": "CB",
-    "wsustars": 3,
-    "wsuheight": "5-10",
-    "wsuweight": 170,
-    "wsuschool": "Cy-Fair HS",
-    "wsuhometown": "Cypress, TX"
+    "wsuhometown": "Arvada, CO",
+    "wsusigned": "X"
   },
   {
     "wsufirstname": "R.J.",
@@ -223,7 +204,8 @@
     "wsuheight": "5-9",
     "wsuweight": 160,
     "wsuschool": "Independence CC",
-    "wsuhometown": "Independence, KS"
+    "wsuhometown": "Independence, KS",
+    "wsusigned": "X"
   },
   {
     "wsufirstname": "Kendrick",
@@ -256,6 +238,38 @@
     "wsuweight": 195,
     "wsuschool": "Pomona HS",
     "wsuhometown": "Arvada, Colo. ",
+    "wsusigned": "X"
+  },
+  {
+    "wsufirstname": "Blake",
+    "wsulastname": "McDonald",
+    "wsuposition": "OL",
+    "wsustars": 3,
+    "wsuheight": "6-4",
+    "wsuweight": 295,
+    "wsuschool": "San Ramon Valley HS",
+    "wsuhometown": "Danville, Calif.",
+    "wsusigned": "X"
+  },
+  {
+    "wsufirstname": "Tyrese ",
+    "wsulastname": "Ross",
+    "wsuposition": "DB",
+    "wsustars": 3,
+    "wsuheight": "6-0",
+    "wsuweight": 180,
+    "wsuschool": "Westlake HS",
+    "wsuhometown": "Atlanta, GA",
+    "wsusigned": "X"
+  },
+  {
+    "wsufirstname": "Misiona",
+    "wsulastname": "Aiolupotea-Pei",
+    "wsuposition": "DL",
+    "wsuheight": "6-3",
+    "wsuweight": 250,
+    "wsuschool": "Riverside CC",
+    "wsuhometown": "Gold Coast, Australia",
     "wsusigned": "X"
   }
 ]
