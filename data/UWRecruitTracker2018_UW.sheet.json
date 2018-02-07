@@ -213,19 +213,21 @@
     "uwlastname": "Irvin",
     "uwposition": "DB",
     "uwstars": 4,
-    "uwheight": "6-2",
-    "uwweight": 187,
+    "uwheight": "6-1",
+    "uwweight": 177,
     "uwschool": "Servite",
-    "uwhometown": "Anaheim, Calif."
+    "uwhometown": "Anaheim, Calif.",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Tuli",
     "uwlastname": "Letuligasenoa",
     "uwposition": "DT",
     "uwstars": 4,
-    "uwheight": "6-2",
-    "uwweight": 300,
+    "uwheight": "6-1",
+    "uwweight": 338,
     "uwschool": "De La Salle",
-    "uwhometown": "Concord, Calif."
+    "uwhometown": "Concord, Calif.",
+    "uwsigned": "x"
   }
 ]
