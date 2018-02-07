@@ -22,9 +22,5 @@
       var cougarsData = <%= JSON.stringify(json.WSURecruitTracker2018_UW) %>;
     </script>
     <script src="app.js"></script>
-    <% if (json.project.production) { %>
-    <%= !json.project.embedded ? t.include("partials/_adFoot.html") : "" %>
-    <%= t.include("partials/_workHere.html") %>
-    <% } %>
   </body>
 </html>
